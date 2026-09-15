@@ -1,3 +1,3 @@
 # Kevin Caldwell
 
-![alt text](image.png)
+![Commit Screenshot](commit_screenshot.png)
